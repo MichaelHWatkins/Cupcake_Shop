@@ -10,6 +10,7 @@
 * _HTML_
 * _Markdown_
 * _Git Repositories_
+* _Google Fonts_
 
 ## Description
 
@@ -17,7 +18,7 @@ _{A website for a fictional cupcake shop.}_
 
 ## Setup/Installation Requirements
 
-* _Navigate to https://github.com/url-path in your browser_
+* _Navigate to https://github.com/MichaelHWatkins/Cupcake_Shop in your browser_
 * _Clone this repository to your desktop_
 * _Navigate to the top level of the directory_
 * _Connect to your github repository_
